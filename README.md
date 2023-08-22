@@ -15,6 +15,9 @@
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=MuratBaha&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="wakatime" align="center">
+<a href="https://wakatime.com/@b0c17515-f0a1-43b9-8356-7cb2a0032cc2"><img src="https://wakatime.com/badge/user/b0c17515-f0a1-43b9-8356-7cb2a0032cc2.svg" alt="Total time coded since Jan 28 2023" /></a>
+  </div>
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -61,4 +64,16 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuratBaha&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuratBaha&layout=compact&theme=vision-friendly-dark)](https://github.com/MuratBaha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratbaha&layout=compact&theme=vision-friendly-dark)](https://github.com/MuratBaha/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=muratbaha&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=muratbaha&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muratbaha&show_icons=true" />
+</picture>
