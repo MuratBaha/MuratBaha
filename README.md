@@ -11,6 +11,9 @@
   <a href="https://twitter.com/muratbaha">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://muratbaha.com">
+    <img src="https://img.shields.io/badge/WebPage-orange?style=for-the-badge&logo=www&logoColor=white" alt="WebPage Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=MuratBaha&style=flat-square&color=blue" alt=""/>
