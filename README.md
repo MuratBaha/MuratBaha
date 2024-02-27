@@ -30,11 +30,13 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+- 💻 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🔬 I develop laboratory and school management programs.
 
-- :zap: In my free time I fly as a Virtual Pilot, study new languages and technologies, and read technology articles.
+- 🌱 Exploring Technical Content Writing.
+
+- 📑 In my free time I fly as a Virtual Pilot, study new languages and technologies, and read technology articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MuratBaha-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/murat-baha/))
 
