@@ -34,7 +34,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 🔬 I develop laboratory and school management programs.
 
-- 🌱 I like to research and read articles on software development techniques
+- 🌱 I like to read about new techniques, skills and technologies in software development.
 
 - 📑 In my free time I fly as a Virtual Pilot, study new languages and technologies, and read technology articles.
 
